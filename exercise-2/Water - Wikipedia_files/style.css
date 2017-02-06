@@ -2,5 +2,5 @@ h1 {
 	color:blue;
 }
 body {
-	background: #fff url("whater.jpg") no-repeat left top;
+	background: #fff url("whater.jpg") no-repeat fixed;
 }
