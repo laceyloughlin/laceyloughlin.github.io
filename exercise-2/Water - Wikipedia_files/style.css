@@ -3,4 +3,5 @@ h1 {
 }
 main {
 	background: #fff url("water-bg.jpg") no-repeat cover;
+	text-align: center;
 }
