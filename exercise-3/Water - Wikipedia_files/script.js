@@ -1,6 +1,5 @@
 $(document).ready(function (){
-	$("h1").hover(function(){
-		$( this ).fadeOut( 100 );
-		$( this ).fadeIn( 500 );
+	$("h1").click(function(){
+		$("h1").fadeOut('fast');
 	});
 });
