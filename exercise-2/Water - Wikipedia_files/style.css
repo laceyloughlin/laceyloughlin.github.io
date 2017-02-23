@@ -9,3 +9,9 @@ body {
 div#mw-head{
 	 background-color:#FFF;
 }
+a:link{
+	color:#EDCB80;
+}
+a:visited{
+	color:#EDA180;
+}
