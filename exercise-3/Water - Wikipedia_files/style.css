@@ -1,0 +1,33 @@
+h1 {
+	color: #ABCFD9;
+}
+body {
+	margin: 20px;
+	background-color:#AED8E6;
+	font-family: georgia, serif;
+}
+a:link{
+	color:#EDCB80;
+}
+a:visited{
+	color:#EDA180;
+}
+div#content.mw-body{
+	font-family: verdana, sans-serif;
+	font-style: normal;
+	background-color:rgba(255, 255, 255, 0.74);
+}
+img{
+	opacity: .5;
+}
+img:hover{
+	opacity: 1;
+}
+div.vectorTabs li a {
+	display: list-item;
+}
+$(document).ready(function (){
+	$("img").click(function(){
+		$("img").fadeOut();
+	});
+});
