@@ -3,7 +3,8 @@ h1 {
 }
 body {
 	margin: 20px;
-	color:purple;
+	background-color:blue;
+	font-family: georgia, serif;
 }
 div#mw-head{
 	 color:blue;
