@@ -1,5 +1,5 @@
 h1 {
-	color: purple;
+	color: #ABCFD9;
 }
 body {
 	margin: 20px;
@@ -15,4 +15,10 @@ a:visited{
 div#content.mw-body{
 	font-family: verdana, sans-serif;
 	font-style: normal;
+}
+img{
+	opacity: .5;
+}
+div.img:hover{
+	opacity: 1;
 }
