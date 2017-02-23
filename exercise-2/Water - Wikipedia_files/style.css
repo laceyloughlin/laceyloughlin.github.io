@@ -15,6 +15,7 @@ a:visited{
 div#content.mw-body{
 	font-family: verdana, sans-serif;
 	font-style: normal;
+	background-color:#0ca0b0;
 }
 img{
 	opacity: .5;
