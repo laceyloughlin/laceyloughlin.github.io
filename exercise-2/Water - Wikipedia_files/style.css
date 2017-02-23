@@ -19,6 +19,6 @@ div#content.mw-body{
 img{
 	opacity: .5;
 }
-div.img:hover{
+img:hover{
 	opacity: 1;
 }
