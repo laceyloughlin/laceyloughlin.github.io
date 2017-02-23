@@ -23,8 +23,3 @@ img{
 img:hover{
 	opacity: 1;
 }
-$(document).ready(function (){
-	$("img").click(function(){
-		$("img").fadeOut();
-	});
-});
