@@ -23,9 +23,6 @@ img{
 img:hover{
 	opacity: 1;
 }
-div.vectorTabs li a {
-	display: list-item;
-}
 $(document).ready(function (){
 	$("img").click(function(){
 		$("img").fadeOut();
