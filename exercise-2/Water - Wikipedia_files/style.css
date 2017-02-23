@@ -6,12 +6,13 @@ body {
 	background-color:#AED8E6;
 	font-family: georgia, serif;
 }
-div#mw-head{
-	 background-color:#FFF;
-}
 a:link{
 	color:#EDCB80;
 }
 a:visited{
 	color:#EDA180;
+}
+div#content.mw-body{
+	font-family: verdana, sans-serif;
+	font-style: normal;
 }
