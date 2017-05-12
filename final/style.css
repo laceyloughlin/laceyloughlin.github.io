@@ -16,31 +16,35 @@ li a {
 #creature1{
 	margin:0 auto;
 	display:block;
+	width:30%;
 }
 
 #design{
 	display:block;
 	margin:0 auto;
+	width:30%;
 }
 
 #fish{
 	display:block;
 	margin:0 auto;
-
+	width:30%;
 }
 
 #place{
 	display:block;
 	margin:0 auto;
-
+	width:30%;
 }
 
 #note{
 	display:block;
 	margin:0 auto;
+	width:30%;
 }
 
 #ppl{
 	display:block;
 	margin:0 auto;
+	width:30%;
 }
